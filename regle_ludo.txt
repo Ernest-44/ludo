@@ -1,0 +1,8 @@
+            bienvenu dans le manuel d'aide portant sur le jeu du ludo
+
+parmi les principales regles pour l'implementation du ludo nous avons :
+
+-pour pouvoir faire sortir un pion de votre case il vous faut jouer un 6
+-pour pouvoir jouer vous devez a votre tour taper sur la touche `ENTER` du clavier en fin de generer 
+    votre nombre et ensuite  a l'aide de la souris choisir le pion sur lequel vous souhaiter 
+    appliquer le deplacement sachant que le pion doit etre celui du tour correspondant 
